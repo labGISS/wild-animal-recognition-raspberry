@@ -7,7 +7,6 @@ Inserire le immagini nella cartella ``images`` ed eseguire il comando:
 
 ```
 python detect.py  --model animals_20_epochs.tflite
-
 ```
 
 ### 2. YoloV5
